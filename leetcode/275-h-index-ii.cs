@@ -14,6 +14,7 @@ public class Solution {
 
 
 //Better solution
+/* 
 class Solution {
     public int hIndex(int[] citations) {
         int ans = citations.length;
@@ -24,3 +25,4 @@ class Solution {
         return ans;
     }   
 }
+*/
